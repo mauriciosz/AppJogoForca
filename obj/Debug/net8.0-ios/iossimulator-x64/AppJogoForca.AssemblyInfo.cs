@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppJogoForca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+488119ad07c043398e01a982a83c76ebcee3c30c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppJogoForca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppJogoForca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

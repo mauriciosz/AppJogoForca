@@ -21,6 +21,7 @@ namespace AppJogoForca.Repositories
             _palavras.Add(new Palavras("Amigo do Saci"                                  , "Curupira".ToUpper()));
             _palavras.Add(new Palavras("Melhora a saúde do coração"                     , "Azeite".ToUpper()));
             _palavras.Add(new Palavras("Pode ser doce ou salgada"                       , "Pipoca".ToUpper()));
+            _palavras.Add(new Palavras("O Git da muita dor de ?"                        , "Cabeca".ToUpper()));
         }
 
         public Palavras GetPalavrasAleatorias()
