@@ -1,0 +1,1 @@
+C:\Users\Zaccaro\source\repos\ProjetosMAUI\AppJogoForca\AppJogoForca.csproj;x64
